@@ -4,7 +4,7 @@
 The portfolio showcases my skills and talents to employers looking to fill a part-time or full-time position. The portfolio highlights my most substantial work as well as the thought processes behind it.
 
 ## Deployed link
-
+https://pgurung95.github.io/portfolio1/
 
 
 ## User Story
